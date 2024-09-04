@@ -5,8 +5,6 @@
   <img src="https://i.pinimg.com/originals/03/db/66/03db66241697a1c8121d51990d8f6435.gif" width="256" alt="Gura Drum">
 </h3>
 
-<h1 align="center">RBXFLAGS</h1>
-
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
