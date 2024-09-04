@@ -224,7 +224,7 @@ High
 ```
 ### Low Render Distance
 > [!TIP]
-> **[View FRM Levels](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
+> **[View FRM Levels](https://github.com/GamingBoyZ379/robloxfastflags/tree/master?tab=readme-ov-file#frm-levels)**
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -295,7 +295,7 @@ High
 ```
 ### Enable GPULightCulling
 > [!TIP]
-> **Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision**
+> **Combine with [Lighting Attenuation](https://github.com/GamingBoyZ379/robloxfastflags/tree/master?tab=readme-ov-file#lighting-attenuation) for better vision**
 ```json
 {
     "FFlagFastGPULightCulling3": "True"
