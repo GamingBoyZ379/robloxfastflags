@@ -1735,4 +1735,4 @@ High
     <img src="https://c.tenor.com/fWO4Tmw3BeYAAAAC/tenor.gif" width="465">
   </a>
 </h3>
-<h4 align="center">© 2024 GamingBoyZ379 All Rights Reserved.</h4>
+<h4 align="center">© 2024 GamingBoyZ379 Probably Some Rights Reserved.</h4>
