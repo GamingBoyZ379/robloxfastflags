@@ -1066,6 +1066,12 @@ High
     "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
 }
 ```
+### Delayed Animations
+```json
+{
+    "FFlagProcessAnimationLooped": "False"
+}
+```
 ### Stick unanchored parts to you
 > [!TIP]
 > **- = up, + = down**
